@@ -3,9 +3,16 @@
 
 # ⚡ eklimov-dev.ru
 
-### Software Development · Automation · DevOps
-
 **Разработка программного обеспечения и автоматизация IT-инфраструктуры**
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-eklimov--dev.ru-D4A017?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eklimov-dev.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-eklimov--dev--ru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eklimov-dev-ru)
+
+**Development · Automation · Infrastructure**
+
+</div>
 
 [🇷🇺 Русский](README.md) · [🇬🇧 English](README_EN.md)
 
@@ -14,8 +21,6 @@
 ---
 
 ## 🚀 Направления разработки
-
-**eklimov-dev.ru** — разработка программного обеспечения, системных инструментов и сервисов для автоматизации и управления IT-инфраструктурой.
 
 <table>
   <tr>
@@ -51,18 +56,5 @@
 <img src="https://skillicons.dev/icons?i=windows,docker,nginx,git,github,githubactions,pycharm,vscode&theme=dark&perline=8" alt="Infrastructure and Development Tools" />
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vim&theme=dark" alt="Development Environment" />
-
-</div>
-
----
-
-## 🌐 Контакты
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-eklimov--dev.ru-D4A017?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eklimov-dev.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-eklimov--dev--ru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eklimov-dev-ru)
-
-**Development · Automation · Infrastructure**
 
 </div>
